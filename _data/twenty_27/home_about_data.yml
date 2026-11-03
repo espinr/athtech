@@ -1,0 +1,29 @@
+- inverted: 
+  img: icon-about.jpeg
+  identifier: page_about
+  name: Topics, Vision, Objectives
+  info: Learn more about the objectives of the conference and how we are seeking to <i>shape the future of Athletics</i>
+  link: /2027/about
+
+#- inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  identifier: page_agenda
+#  name: Agenda
+#  info: Wed 6th - Fri 8th October
+#  link: /2027/agenda
+
+#- inverted:
+#  img: icon-venue.jpeg
+#  name: Venue
+#  identifier: page_venue
+#  info: Find out about <i>San Marino</i> <br> & how to get here
+#  link: /2027/venue
+
+#- inverted: timeline-inverted
+#  img: booklet-icon.png
+#  name: Register
+#  identifier: page_register
+#  info: Registration is open 
+#  link: /2027/register
+
+
