@@ -1,6 +1,6 @@
-title: 6th Athletics Data Conference
+title: 7th Athletics Data Conference
 description: > # this means to ignore newlines until "baseurl:"
-  07-09 Oct 2025
+  06-08 Oct 2027
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://athtech.run" # the base hostname & protocol for your site
 
@@ -16,13 +16,14 @@ social:
   name: W3C Open Athletics Community Group
   link: "https://openathletics.net/"
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+#google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include:
   - _2018_pages
   - _2021_pages
   - _2023_pages
   - _2025_pages
+  - _2027_pages
   - index.html
   - 404.html
   - css
@@ -34,7 +35,7 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/search?q=%23athtech25
+    url: https://x.com/search?q=%23athtech27
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,14 @@
+- time: "15:00"
+  info: "<details><summary>Networking & Icebreaking</summary><span>Icebreaking and networking activities for the participants that will help refine the content of the agenda and activities.</span></details>"
+
+- time: "16:00"
+  info: "<details><summary>Intro Panel and Breakouts</summary><span>AthTech's background and evolution. Focus on next EA Convention. Definition of topics, expectations and roadmap. Breakout of activities/groups.</span></details>"
+
+- time: "17:00"
+  info: "<details><summary>TrHackathon</summary><span>Results of the first TrHackathon. Introduction of the winners</span></details>"
+
+- time: "18:30"
+  info: "<em class='break'>Networking</em>"
+
+- time: "20:00"
+  info: "<em class='break'>Dinner</em>"

@@ -1,0 +1,67 @@
+---
+layout: 2027_default
+permalink: /2027/agenda
+title: AthTech27 Agenda 
+published: false
+---
+    <div class="event black-frame">
+        <h1>{{ page.title }}</h1>
+
+
+            <h2>Tuesday 7<sup>th</sup> <abbr title="October">Oct</abbr></h2>
+            <table class="agenda">
+                <thead>
+                    <tr>
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
+                    </tr>
+                </thead>
+
+                {% for agenda in site.data.twenty_27.agendas_1 %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </table>
+
+            <h2>Wednesday 8<sup>th</sup> <abbr>Oct</abbr></h2>
+            <table class="agenda">
+                <thead>
+                    <tr>
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
+                    </tr>
+
+                </thead>
+
+                {% for agenda in site.data.twenty_27.agendas_2 %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </table>
+
+            <h2>Thursday 9<sup>th</sup> <abbr title="October">Oct</abbr></h2>
+            <table class="agenda">
+                <thead>
+                    <tr>
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
+                    </tr>
+                </thead>
+
+                {% for agenda in site.data.twenty_27.agendas_3 %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </table>
+
+    
+        </div>
+            
+
+    </div>
